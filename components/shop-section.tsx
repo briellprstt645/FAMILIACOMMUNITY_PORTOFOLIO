@@ -3,7 +3,7 @@
 import { useEffect, useRef, useState } from "react"
 import Image from "next/image"
 import { ShoppingCart, Gift, Heart, Tag, Coins } from "lucide-react"
-import { BuyNowModal, BuyTitleModal, ClaimTitleModal } from "./purchase-modal"
+import { BuyNowModal, BuyTitleModal, ClaimTitleModal } from "@/components/purchase-modal"
 
 const products = [
   {

@@ -1,0 +1,6 @@
+minimumReleaseAge: 0
+onlyBuiltDependencies:
+  - "@vercel/speed-insights"
+  - esbuild
+  - sharp
+  - workerd
